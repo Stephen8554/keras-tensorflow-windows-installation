@@ -16,7 +16,7 @@ Choose your version depending on your Operating System
 
 <p align="center"><img width=70% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/cuda8_windows7_local_installation.png"></p>
 
-### Step 4: Download cuDNN <a href="https://developer.nvidia.com/rdp/cudnn-download" target="_blank">Download</a>
+### Step 4: Download **cuDNN 5.1** <a href="https://developer.nvidia.com/rdp/cudnn-download" target="_blank">Download</a>
 Choose your version depending on your Operating System.
 Membership registration is required.
 
